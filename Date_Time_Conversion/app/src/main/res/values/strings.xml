@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Date_Time_Conversion</string>
+    <string name="TV1">西元年 :</string>
+    <string name="TV2">月 :</string>
+    <string name="TV3">日 :</string>
+    <string name="TV4">時間 :</string>
+    <string name="TV5">時</string>
+    <string name="TV7">秒</string>
+    <string name="TV6">分</string>
+    <string name="BT1">顯示</string>
+    <string name="TV8">年/月/日</string>
+    <string name="TV9">時:分:秒</string>
+    <string name="TV14">閏年判別 :</string>
+    <string name="LeapYear_Yes">是閏年</string>
+    <string name="LeapYear_No">不是閏年</string>
+</resources>
